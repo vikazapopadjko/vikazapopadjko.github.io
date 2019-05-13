@@ -1,0 +1,147 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background:#FFFAF0;
+}
+
+#nav {
+	width: 1000px;
+	margin: 10px auto;
+}
+
+#header {
+width: 100%;
+height: 157px;
+background: url(ob.jpeg);
+}
+#P {
+	border: none;
+	background-color:#478430;
+	color:#478430;
+	height: 100px ;
+	width: 1000px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.pa {
+	border: 2px solid #1e6612;
+	width: 162.5px;
+	float: left;
+	height: 96px;
+}
+
+.pa a {
+	text-transform: uppercase;
+	color: #033512;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 16px;
+	font-family: Century Gothic; 
+	display: block;
+	padding-top: 20px;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+#d{
+	 border: none;
+	 background-color: #212322 ;
+	 color: #21232;
+	 height: 100px; 
+}
+
+.me1 {
+	color: white;
+	float: left;
+	font-size: 15.8px;
+	font-family: "Microsoft YaHei UI Light" ;
+	text-align: left;
+	margin-left: 13px;
+	padding-top: 20px;
+	width: 400px;
+}
+#a2 {
+	 float: right;
+	 width: 50px;
+	 height: 50px;
+	 margin-top: 20px;
+	 margin-right: 10px;
+	
+}
+#a4 {
+	float: right;
+	 width: 50px;
+	 height: 50px;
+	 margin-top: 20px;
+	 margin-right: 10px;
+}
+#a1 {
+	 float: right;
+	 width: 50px;
+	 height: 50px;
+	 margin-top: 20px;
+	 margin-right: 10px;
+}
+#a3 {
+	 float: right;
+	 width: 50px;
+	 height: 50px;
+	 margin-top: 20px;
+	 margin-right: 10px;
+	 
+}
+#re {
+	text-align: center;
+	margin-top: 10px;
+}
+a {
+	color: #45f235;
+	text-decoration: none;
+	font-size: 16px;
+	font-family: Century Gothic; 
+	
+	
+}
+#bo {
+	padding: 0;
+	font-weight: bold;
+	font-size: 24px;
+	font-family: "Microsoft YaHei UI Light" ;
+}
+#ek {
+	
+	margin-left: 10px;
+	font-size: 15.8px;
+	font-family: "Microsoft YaHei UI Light" ;
+}
+#sd {
+	margin-top: 50px;
+	margin-bottom: 100px;
+}
+#l {
+	float: left;
+	margin: 5px  13px 0 1px;
+}
+#gf1 {
+	margin-top: 60px;
+	
+}
+#sd {
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+#za {
+	margin-bottom: 250px;
+}
+#be {
+	padding: 0;
+	font-weight: bold;
+	font-size: 15.8px;
+	font-family: "Microsoft YaHei UI Light" ;
+}
+#bj {
+	margin-top: 30px ;
+}

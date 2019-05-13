@@ -1,0 +1,69 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: #ffffff;
+}
+
+#nav {
+	width: 1000px;
+	margin: 10px auto;
+}
+
+#header {
+	width: 100%;
+	height: 250px;
+	background: url(ttt.jpeg);
+}
+#B {
+	border: none;
+	background-color: #d69848;
+	color: #d69848;
+	height: 100px;
+	width: 1000px;
+	text-align: center;
+}
+
+
+.b {
+	border: 2px solid #c48835;
+	width: 162px;
+	float: left;
+	height: 96px;
+	text-align: center;
+}
+
+.b a {
+	display:block;
+	margin-top: 30px;
+	text-decoration: none;
+}
+
+p {
+	padding-top: 30px;
+	font-family: "Century Gothic";
+	text-align: justify;
+	font-style: italic;
+	font-size: 19px;
+}
+h3 {
+	font-family: Bahnschrift;
+	font-weight: normal;
+	padding-top: 40px;
+	font-size: 20px;
+}
+
+h1 {
+	color: white;
+	font: 40px "Bahnschrift SemiBold";
+	margin-left: 155px;
+	padding-top: 100px;
+}
+#m {
+	text-align: center;
+	
+}
+
+	
